@@ -9,7 +9,7 @@ export default function Home() {
   }, []);
   return (
     <main style={{padding: 24}}>
-      <h1>Hello Intern 👋</h1>
+      <h1>Hello Kaveesha 👋</h1>
       <p>Backend ping: {pong}</p>
     </main>
   );
